@@ -29,9 +29,10 @@
   "peerDependencies": {
     "debug": "^4.3.3",
     "kleur": "^4.1.4"
-  },
-  "peerDependenciesMeta": {
-    "debug": { "optional": false },
-    "kleur": { "optional": false }
   }
+  //,
+  //  "peerDependenciesMeta": {
+  //  "debug": { "optional": false },
+  //  "kleur": { "optional": false }
+  //}
 }
