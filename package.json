@@ -29,5 +29,9 @@
   "peerDependencies": {
     "debug": "^4.3.3",
     "kleur": "^4.1.4"
+  },
+  "dependenciesMeta": {
+    "debug": { optional: false },
+    "kleur": { optional: false }
   }
 }
